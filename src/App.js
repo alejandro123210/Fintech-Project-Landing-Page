@@ -33,9 +33,9 @@ function App() {
             <p style={{paddingTop: '60%'}}> Lenders are then able to trade the bonds, or wait to be paid back</p>
           </div>
         </div>
-        <div className="App-our-goal">
-          <p style={{fontSize: 40, color: 'white'}}> Why?</p>
-        </div>
+        {/* <div className="App-start-now">
+          <p style={{fontSize: 40, color: 'white'}}>Start now!</p>
+        </div> */}
       </div>
     </div>
   );
